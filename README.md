@@ -7,7 +7,7 @@ You can preview a formatted version of this README.md document by clicking the '
 ## Preparation
 
 - Reflect on your interests in language and linguistics
-- Review the concepts on data and datasets in [TAD Chapter 3 "Approaching analysis"](https://lin380.github.io/coursebook/approaching-analysis.html)
+- Review the concepts on assessing datasets in [TAD Chapter 3 "Approaching analysis"](https://lin380.github.io/coursebook/approaching-analysis.html)
 - Familiarize yourself with [how to search for academic articles](https://guides.zsr.wfu.edu/c.php?g=34575&p=221095) which use text analysis methods
 - Consult Recipes 1 and 2 and Labs 1 and 2 for guidance on using R Markdown
 
